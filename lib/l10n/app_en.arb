@@ -1,0 +1,431 @@
+{
+    "invalidInput" : "Invalid Input",
+    "@invalidInput" : {
+        "description": ""
+    },
+    "ok" : "Ok",
+    "@ok" : {
+        "description":""
+    },
+    "createaNewAccount" : "Create a new account",
+    "@createaNewAccount" : {
+        "description":""
+    },
+    "username" : "Username",
+    "@username" : {
+        "description":""
+    },
+    "email" : "Email",
+    "@email" : {
+        "description":""
+    },
+    "yourInterests" : "Your interests ...",
+    "@yourInterests" : {
+        "description": ""
+    },
+    "pleaseSelectYourDateOfBirth" : "Please select your date of birth :",
+    "@pleaseSelectYourDateOfBirth" : {
+        "description" :""
+    },
+    "createNewAccount" : "Create new account",
+    "@createNewAccount" : {
+        "description":""
+    },
+    "warning" : "Warning",
+    "@warning" : {
+        "description":""
+    },
+    "youArenot18YearsOld" : "You are not 18 years old",
+    "@youArenot18YearsOld" : {
+        "description": ""
+    },
+    "backToLogin" : "Back to Login !",
+    "@backToLogin" : {
+        "description":""
+    },
+    "selectInterests" : "Select interests",
+    "@selectUsers" : {
+        "description":""
+    },
+    "putYourEmailPlease" : "Put your email please",
+    "@putYourEmailPlease" : {
+        "description":""
+    },
+    "send" : "Send",
+    "@send" : {
+        "description": ""
+    },
+    "checkYourEmailPlease" : "Check your email please!",
+    "@checkYourEmailPlease" : {
+        "description":""
+    },
+    "noUserFoundForThatEmail" : "No user found for that email.",
+    "@noUserFoundForThatEmail" : {
+        "description":""
+    },
+    "wrongPasswordProvidedForThatUser" : "Wrong password provided for that user.",
+    "@wrongPasswordProvidedForThatUser" : {
+        "description":""
+    },
+    "successful" : "Successful",
+    "@successful" : {
+        "description":""
+    },
+    "youAreLogined" : "You are logined !",
+    "@youAreLogined" : {
+        "description" :""
+    },
+    "welcomeToTheMeMoMi" : "Welcome to MeMoMi",
+    "@welcomeToTheMeMoMi" : {
+        "description" :""
+    },
+    "login" : "Login",
+    "@login" : {
+        "description":""
+    },
+    "forgetPassword" : "Forget password!",
+    "@forgetPassword" : {
+        "description":""
+    },
+    "createNewAccont" : "Create new accont !",
+    "@createNewAccont" : {
+        "description":""
+    },
+    "editYourAccount" : "Edit your account",
+    "@editYourAccount" : {
+        "description" :""
+    },
+    "editYourProfile" : "Edit your profile",
+    "@editYourProfile" : {
+        "description" :""
+    },
+    "phoneNr" : "Phone number",
+    "@phoneNr" : {
+        "description":""
+    },
+    "enterValidDate" : "Enter valid date", 
+    "@enterValidDate" : {
+        "description":""
+    },
+    "enterdateinvalidrange" : "Enter date invalid range",
+    "@enterdateinvalidrange" : {
+        "description" :""
+    },
+    "bookingdate" : "Booking date",
+    "@bookingdate" : {
+        "description":""
+    },
+    "monthDateYear" : "Month date year",
+    "@monthDateYear" : {
+        "description":""
+    },
+    "addImage" : "Add image",
+    "@addImage" : {
+        "description":""
+    },
+    "writeYourComment" : "Write your comment",
+    "@writeYourComment" : {
+        "description":""
+    },
+    "sortBy" : "Sort by",
+    "@sortBy" : {
+        "description":""
+    },
+    "mostLikes" : "Most likes",
+    "@mostLikes" : {
+        "description":""
+    },
+    "mostComments" : "Most comments",
+    "@mostComments" : {
+        "description":""
+    },
+    "leastLikes" : "Most dislikes",
+    "@leastLikes" : {
+        "description":""
+    },
+    "done" : "Done",
+    "@done" : {
+        "description":""
+    },
+    "posts" : "Posts",
+    "@posts" : {
+        "description":""
+    },
+    "friends" : "Friends",
+    "@friends" : {
+        "description":""
+    },
+    "thisPostHasTheMostComments" : "This post has the most comments",
+    "@thisPostHasTheMostComments" : {
+        "description":""
+    },
+    "thiPostHasTheLeastLikes" : "This post has the most dislikes",
+    "@thiPostHasTheLeastLikes" : {
+        "description" :""
+    },
+    "thisPostHasTheMostLikes" : "This post has the most likes",
+    "@thisPostHasTheMostLikes" : {
+        "description":""
+    },
+    "editProfile" : "Edit Profile",
+    "@editProfile" : {
+        "description":""
+    },
+    "yourRequests" : "Your requests",
+    "@yourRequests" : {
+        "description":""
+    },
+    "requestFromYou" : "Request from you",
+    "@requestFromYou": {
+        "description":""
+    },
+    "saved" : "Saved",
+    "@saved" : {
+        "description":""
+    },
+    "signOut" : "Sign Out",
+    "@signOut": {
+        "description":""
+    },
+    "version" : "Version",
+    "@version" : {
+        "description":""
+    },
+    "friendRequest" : "Friend request",
+    "@friendRequest" : {
+        "description":""
+    },
+    "remove" : "Remove",
+    "@remove": {
+        "description":""
+    },
+    "searchBy" : "Search by",
+    "@searchBy" : {
+        "description":""
+    },
+    "acount" : "Acount",
+    "@acount" : {
+        "description":""
+    },
+    "subject" : "Subject",
+    "@subject" : {
+        "description":""
+    },
+    "regarding" : "Regarding",
+    "@regarding" : {
+        "description":""
+    },
+    "yourStory" : "Your story",
+    "@yourStory" : {
+        "description":""
+    },
+    "showForAll" : "Show for all",
+    "@showForAll" : {
+        "description":""
+    },
+    "showJustForMe" : "Show just for me",
+    "@showJustForMe" : {
+        "description":""
+    },
+    "showForMyFriends" : "Show for my friends",
+    "@showForMyFriends" : {
+        "description":""
+    },
+    "showFor" : "Show for",
+    "@showFor" : {
+        "description":""
+    },
+    "edit" : "Edit",
+    "@edit": {
+        "description":""
+    },
+    "accept" : "Accept",
+    "@accept" : {
+        "description":""
+    },
+    "numberofFriends" : "Number of friends: ",
+    "@numberofFriends" : {
+        "description":""
+    },
+    "interests" : "Interests",
+    "@interests" : {
+        "description":""
+    },
+    "password" : "Password",
+    "@password" : {
+        "description":""
+    },
+    "male" : "Male",
+    "@male" : {
+        "description":""
+    },
+    "female" : "Female",
+    "@female" : {
+        "description":""
+    },
+    "other" : "Other",
+    "@other" : {
+        "description" :""
+    },
+    "animals" : "Animals",
+    "@animals" : {
+        "description":""
+    },
+    "playingaMusicalInstrument" : "Playing a musical instrument",
+    "@playingaMusicalInstrument" : {
+        "description":""
+    },
+    "reading" : "Reading",
+    "@reading" : {
+       "description": ""
+    },
+    "writing" : "Writing",
+    "@writing" : {
+        "description":""
+    },
+    "sketching" : "Sketching",
+    "@sketching" : {
+        "description":""
+    },
+    "photography" : "Photography",
+    "@photography" : {
+        "description":""
+    },
+    "design" : "Design",
+    "@design" : {
+        "description":""
+    },
+    "painting" : "Painting",
+    "@painting" : {
+        "description":""
+    },
+    "games" : "Games",
+    "@games" : {
+        "description":""
+    },
+    "languages" : "Languages",
+    "@languages" : {
+        "description":""
+    },
+    "sport" : "Sport",
+    "@sport" : {
+        "description":""
+    },
+    "programming" : "Programming",
+    "@programming" : {
+        "description":""
+    },
+    "universe" : "Universe",
+    "@universe" : {
+        "description":""
+    },
+    "sex" : "Sex",
+    "@sex" : {
+        "description":""
+    },
+    "family" : "Family",
+    "@family" : {
+        "description":""
+    },
+    "religion" : "Religion",
+    "@religion" : {
+        "description":""
+    },
+    "philosophy" : "Philosophy",
+    "@philosophy" : {
+        "description":""
+    },
+    "apply" : "Apply",
+    "@apply" : {
+        "description":""
+    },
+    "all" : "All",
+    "@all" : {
+        "description":""
+    },
+    "reset" : "Reset",
+    "@reset" : {
+        "description":""
+    },
+    "selectedItems" : "Selected items",
+    "@selectedItems" : {
+        "description":""
+    },
+    "firebaseIsNotConnected" : "Firebase is not connected",
+    "@firebaseIsNotConnected": {
+        "description":""
+    },
+    "pleaseWriteYourStory" : "Please write your story",
+    "@pleaseWriteYourStory": {
+        "description":""
+    },
+    "newPostCreated" : "New post created",
+    "@newPostCreated" : {
+        "description" :""
+    },
+    "noNewPostWasCreated" : "No new post was created",
+    "@noNewPostWasCreated" : {
+        "description":""
+    },
+    "notadded" : "Not added",
+    "@notadded" : {
+        "description":""
+    },
+    "cancelRequest" : "Cancel request",
+    "@cancelRequest" : {
+        "description":""
+    },
+    "doYouWantToEndYourFriendship" : "Do you want to end your friendship?",
+    "@doYouWantToEndYourFriendship" : {
+        "description" :""
+    },
+    "cancel" : "Cancel",
+    "@cancel" : {
+        "description":""
+    },
+    "confirm" : "Confirm",
+    "@confirm" : {
+        "description":""
+    },
+    "doYouWantToCancelYourFriendRequest" : "Do you want to cancel your friend request?",
+    "@doYouWantToCancelYourFriendRequest" : {
+        "description":""
+    },
+    "doYouWantToSendaFriendRequest" : "Do you want to send a friend request?",
+    "@doYouWantToSendaFriendRequest" : {
+        "description":""
+    },
+    "theRequestWasSent" : "The request was sent",
+    "@theRequestWasSent" : {
+        "description" : ""
+    },
+    "theRequestWasNotSent" : "The request was not sent",
+    "@theRequestWasNotSent" : {
+        "description" : ""
+    },
+    "friendshipCanceled" : "Friendship canceled",
+    "@friendshipCanceled" : {
+        "description":""
+    },
+    "friendshipWasNotCanceled" : "Friendship was not canceled",
+    "@friendshipWasNotCanceled" : {
+        "description":""
+    },
+    "likedYourStory" : "liked your story",
+    "@likedYourStory" : {
+        "description":""
+    },
+    "dontLikeYourStory" : "don't like your story",
+    "@dontLikeYourStory" : {
+        "description" : ""
+    },
+    "writeaCommentForYourStory" : "write a comment for your story",
+    "@writeaCommentForYourStory" : {
+        "description":""
+    },
+    "editAccount" : "edit Account",
+    "@editAccount" : {
+        "description":""
+    }
+    
+} 

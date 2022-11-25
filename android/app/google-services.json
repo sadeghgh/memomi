@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514786897959",
+    "project_id": "memomi-a52c2",
+    "storage_bucket": "memomi-a52c2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514786897959:android:e3b6e66e2667f68ab35e02",
+        "android_client_info": {
+          "package_name": "com.memomi.memomi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514786897959-8um58pcoc0tlvslrsnbriftillgho9ph.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrusILZumpeyfZCmFmVA38BAt5bTJL1cE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514786897959-8um58pcoc0tlvslrsnbriftillgho9ph.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
